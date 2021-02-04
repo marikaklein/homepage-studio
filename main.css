@@ -1,0 +1,11 @@
+.projects {
+   font-size: 35px;
+   font-family: Helvetica;
+   color: brown;
+   margin-left: 5%;
+   margin-top: 5%;
+}
+
+a:hover {
+  background-color: white;
+}
