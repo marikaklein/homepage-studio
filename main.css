@@ -8,6 +8,7 @@
 
 a:hover {
   background-color: white;
+  cursor: pointer;
 }
 
 .dropbtn {
@@ -17,6 +18,10 @@ a:hover {
   font-size: 15px;
   border: none;
   border-radius: 20px;
+}
+
+.dropbtn:hover {
+  cursor: pointer;
 }
 
 .dropdown {
